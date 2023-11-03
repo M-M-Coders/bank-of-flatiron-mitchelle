@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://www.business.hsbc.com/-/media/media/gbm-global/images/articles/a-practitioners-guide-to-net-zero-for-banks.jpg?h=830&iar=0&w=1520&hash=B343520B95782624F40BAFB3295AD219');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    font-weight: 1000;
+    color: rgb(12, 12, 211);
+  }
+  
+
+
+.this{
+
+    justify-content: space-between;
+     border: 1px solid #240202;
+     padding: 50px;
+   
+     border-radius: 10px;
+    
+    align-items: center;
+    
+     text-align: center; 
+     font-size: larger;
+     
+   }
+   .table{
+     margin: 0 auto;
+     border-radius: 10px;
+     border: 1px solid #240202;
+ 
+   }
+  
+    
+  
+  
+
+  
+  
+
